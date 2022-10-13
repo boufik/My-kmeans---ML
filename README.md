@@ -1,2 +1,1 @@
-# My-kmeans---ML
-It is my implementation of the kmeans algorithm in Machine Learning. In each sterp/iteration, I draw a figure/plot that depicts the way that the points are clustered.
+It is my implementation of the kmeans algorithm in Machine Learning. In each sterp/iteration, I draw a figure/plot that depicts the way that the points are clustered. Each cluster has a different color and in the last iteration, I use the voronoi command to verify the results of the algorithm. So, the centroids are found correctly and divide the area in the same way as Voronoi Diagrammes do. 
